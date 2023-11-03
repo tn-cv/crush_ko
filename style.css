@@ -1,9 +1,14 @@
  *{
-    background-color: palevioletred;
+    font-family: 'Courier New', Courier, monospace;
  }
 
+ body{
+    background: rgb(0, 0, 0);
+    background: linear-gradient(90deg, rgb(0, 0, 0) 47%, rgb(167, 0, 0) 100%);
+  }
+
  h1{
-    color: brown;
+    color: white;
     display: block;
     font-size: 50px;
     position: absolute;
